@@ -1,0 +1,17 @@
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\DotaPersonalProjectTEST.exe
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\DotaPersonalProjectTEST.deps.json
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\DotaPersonalProjectTEST.runtimeconfig.json
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\DotaPersonalProjectTEST.dll
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\ref\DotaPersonalProjectTEST.dll
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\DotaPersonalProjectTEST.pdb
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.AssemblyReference.cache
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.AssemblyInfoInputs.cache
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.AssemblyInfo.cs
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.CoreCompileInputs.cache
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.dll
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\ref\DotaPersonalProjectTEST.dll
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.pdb
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.genruntimeconfig.cache
+C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.CopyComplete
