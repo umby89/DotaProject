@@ -42,7 +42,7 @@ namespace DotaProject
     public class HeroDamagePerMin
     {
         [JsonProperty("raw")]
-        public int Raw;
+        public double Raw;
 
         [JsonProperty("pct")]
         public double Pct;
@@ -51,7 +51,7 @@ namespace DotaProject
     public class HeroHealingPerMin
     {
         [JsonProperty("raw")]
-        public int Raw;
+        public double Raw;
 
         [JsonProperty("pct")]
         public double Pct;
@@ -107,7 +107,7 @@ namespace DotaProject
     public class Player
     {
         [JsonProperty("match_id")]
-        public int MatchId;
+        public Int64 MatchId;
 
         [JsonProperty("player_slot")]
         public int PlayerSlot;
@@ -440,7 +440,7 @@ namespace DotaProject
     public class MatchDTO
     {
         [JsonProperty("match_id")]
-        public int MatchId;
+        public Int64 MatchId;
 
         [JsonProperty("barracks_status_dire")]
         public int BarracksStatusDire;
@@ -488,7 +488,7 @@ namespace DotaProject
         public int LobbyType;
 
         [JsonProperty("match_seq_num")]
-        public int MatchSeqNum;
+        public Int64 MatchSeqNum;
 
         [JsonProperty("negative_votes")]
         public int NegativeVotes;
