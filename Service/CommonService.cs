@@ -9,10 +9,10 @@ namespace DotaProject
              var response = await _ApiCall.GetMatchData(MatchId).Result.Content.ReadAsStringAsync();
             return response;
         }
-        public static async Task<string> getLastTenMatchDatas(string AccountId)
+        public static async Task<string> getLastTenMatchDatas(string AccountId, int? numberOfMatchAnalyze)
         {
             HttpService _ApiCall = HttpService.GetHttpService();
-            var response = await _ApiCall.GetLastTenMatch(AccountId).Result.Content.ReadAsStringAsync();
+            var response = await _ApiCall.GetLastTenMatch(AccountId, numberOfMatchAnalyze).Result.Content.ReadAsStringAsync();
             return response;
         }
 

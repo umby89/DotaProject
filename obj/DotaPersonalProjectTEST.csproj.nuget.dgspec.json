@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PersonalProject\\DotaPersonalProjectTEST\\DotaPersonalProjectTEST.csproj": {}
+    "C:\\Users\\Umby PC\\source\\repos\\umby89\\DotaProject\\DotaPersonalProjectTEST.csproj": {}
   },
   "projects": {
-    "C:\\PersonalProject\\DotaPersonalProjectTEST\\DotaPersonalProjectTEST.csproj": {
+    "C:\\Users\\Umby PC\\source\\repos\\umby89\\DotaProject\\DotaPersonalProjectTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PersonalProject\\DotaPersonalProjectTEST\\DotaPersonalProjectTEST.csproj",
+        "projectUniqueName": "C:\\Users\\Umby PC\\source\\repos\\umby89\\DotaProject\\DotaPersonalProjectTEST.csproj",
         "projectName": "DotaPersonalProjectTEST",
-        "projectPath": "C:\\PersonalProject\\DotaPersonalProjectTEST\\DotaPersonalProjectTEST.csproj",
-        "packagesPath": "C:\\Users\\Umberto\\.nuget\\packages\\",
-        "outputPath": "C:\\PersonalProject\\DotaPersonalProjectTEST\\obj\\",
+        "projectPath": "C:\\Users\\Umby PC\\source\\repos\\umby89\\DotaProject\\DotaPersonalProjectTEST.csproj",
+        "packagesPath": "C:\\Users\\Umby PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Umby PC\\source\\repos\\umby89\\DotaProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Umberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umby PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

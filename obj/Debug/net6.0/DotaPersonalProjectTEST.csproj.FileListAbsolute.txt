@@ -15,3 +15,22 @@ C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectT
 C:\PersonalProject\DotaPersonalProjectTEST\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.CopyComplete
 C:\PersonalProject\DotaPersonalProjectTEST\obj\Debug\net6.0\refint\DotaPersonalProjectTEST.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\DotaPersonalProjectTEST.exe
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\DotaPersonalProjectTEST.deps.json
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\DotaPersonalProjectTEST.runtimeconfig.json
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\DotaPersonalProjectTEST.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\DotaPersonalProjectTEST.pdb
+C:\Users\Umby PC\source\repos\umby89\DotaProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.AssemblyReference.cache
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.AssemblyInfoInputs.cache
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.AssemblyInfo.cs
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.CoreCompileInputs.cache
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.CopyComplete
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\refint\DotaPersonalProjectTEST.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.pdb
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.genruntimeconfig.cache
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\ref\DotaPersonalProjectTEST.dll
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.Properties.Resources.resources
+C:\Users\Umby PC\source\repos\umby89\DotaProject\obj\Debug\net6.0\DotaPersonalProjectTEST.csproj.GenerateResource.cache

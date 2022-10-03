@@ -5,6 +5,8 @@ namespace DotaProject
    
         private static readonly HttpService _httpService = new HttpService();
         public HttpClient client;
+        string apiUri = DotaPersonalProjectTEST.Properties.Resources.ApiUrl;
+        int _numberOfMatchListed = Convert.ToInt32(DotaPersonalProjectTEST.Properties.Resources.numerOfMatchListed);
 
         public static HttpService GetHttpService()
         {
@@ -14,7 +16,7 @@ namespace DotaProject
 
         public async Task<HttpResponseMessage> GetMatchData(string MatchId)
         {
-            _httpService.client.BaseAddress = new Uri($"https://api.opendota.com/api/matches/{(MatchId)}");
+            _httpService.client.BaseAddress = new Uri($"{apiUri}matches/{(MatchId)}");
 
             try
             {
@@ -32,10 +34,13 @@ namespace DotaProject
             }
         }
 
-        public async Task<HttpResponseMessage> GetLastTenMatch(string AccountId)
+        public async Task<HttpResponseMessage> GetLastTenMatch(string AccountId,int? numberOfMatchListed)
         {
-            
-            _httpService.client.BaseAddress = new Uri($"https://api.opendota.com/api/players/{AccountId}/matches?limit=10");
+            if (numberOfMatchListed == null || numberOfMatchListed == 0)
+            {
+                numberOfMatchListed = this._numberOfMatchListed;
+            }
+            _httpService.client.BaseAddress = new Uri($"{apiUri}players/{AccountId}/matches?limit={numberOfMatchListed}");
 
             try
             {
@@ -56,7 +61,7 @@ namespace DotaProject
         public async Task<HttpResponseMessage> GetHeroeList()
         {
             
-            _httpService.client.BaseAddress = new Uri($"https://api.opendota.com/api/heroes");
+            _httpService.client.BaseAddress = new Uri($"{apiUri}heroes");
 
             try
             {
